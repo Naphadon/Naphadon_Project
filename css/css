@@ -1,0 +1,50 @@
+red{
+  background-color:red;
+  height:100px;
+  width:100px;
+  display:inline-block;
+  position: relative;
+  left:220px;
+}
+.pink{
+  background-color:pink;
+  height:100px;
+  width:100px;
+  display:inline-block;
+  position: relative;
+  right:100px;
+}
+.yellow{
+  background-color:yellow;
+  height:100px;
+  width:100px;
+  display:inline-block;
+  position: relative;
+  right:100px
+}
+
+.red{
+  background-color:red;
+  height:100px;
+  width:100px;
+  position: absolute;
+  left:200px;
+  top:200px;
+}
+.pink{
+  background-color:pink;
+  height:100px;
+  width:100px;
+  position: absolute;
+  left:100px;
+  top:100px;
+  }
+
+.yellow{
+  background-color:yellow;
+  height:100px;
+  width:100px;
+}
+body{
+  margin:0;
+}
